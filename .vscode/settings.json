@@ -1,0 +1,11 @@
+{
+  "deno.enable": true,
+  "deno.unstable": false,
+  "deno.lint": true,
+  "editor.insertSpaces": true,
+  "editor.detectIndentation": false,
+  "editor.tabSize": 2,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "denoland.vscode-deno",
+  "typescript.autoClosingTags": true
+}
